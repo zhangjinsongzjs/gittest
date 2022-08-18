@@ -14,5 +14,6 @@ public class gittest {
         System.out.println("hot-fix");
         System.out.println("push");
         System.out.println("pushqwe");
+        System.out.println("gitee");
     }
 }
